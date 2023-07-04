@@ -113,6 +113,8 @@ Desviación 20MP6 = desviación Sm o total + desviación Nm o plásmido
 
 Por lo que puedo rechazar la hipótesis nula y las poblaciones tendrían la medias distintas.
 
+Biologicamente esto indica que la presencia del plásmido tiene un impacto en el crecimiento de las bacterias en vida libre.
+
 
 
 
