@@ -97,8 +97,12 @@ Para los análisis a continuación descarto el grupo que no se distribuye normal
 
 La hipótesis nula es que no hay diferencia entre las varianzas. La hipótesis alternativa es que son significativamente distintas.
 
-Los resultados del test Levene, que compara las varianzas de a pares (las dos cepas), indican que no hay diferencias significativas entre las varianzas.
-Ya que en todos los casos el p-value es menor a 0.05 y no puedo rechazar la hipótesis nula.
+Los resultados del test Levene, que compara las varianzas de a pares (las dos cepas), indican que hay diferencias significativas entre las varianzas.
+Ya que en todos los casos el p-value es menor a 0.05 y rechazo la hipótesis nula.
+
+
+
+
 
 3) Por último, como las poblaciones tienen distribuciones normales y varianzas similaress, realizo un t-test para comparar las medias.
 Al comparar los "FR" para cada ATB, el ttest arroja p-values menores a 0.05. Resultado que se repite al comparar los "FR" para cada bacteria:
@@ -107,7 +111,7 @@ Media 20MP6= media Sm o total - media Nm o plásmido
 
 Desviación 20MP6= desviación Sm o total + desviación Nm o plásmido
 
-Por lo que no puedo rechazar la hipótesis nula y las poblaciones tendrían la misma media.
+Por lo que puedo rechazar la hipótesis nula y las poblaciones tendrían la medias distintas.
 
 
 
