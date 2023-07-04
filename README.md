@@ -104,12 +104,12 @@ Ya que en todos los casos el p-value es menor a 0.05 y rechazo la hipótesis nul
 
 
 
-3) Por último, como las poblaciones tienen distribuciones normales y varianzas similaress, realizo un t-test para comparar las medias.
-Al comparar los "FR" para cada ATB, el ttest arroja p-values menores a 0.05. Resultado que se repite al comparar los "FR" para cada bacteria:
+3) Por último, como las poblaciones tienen distribuciones normales y varianzas distintas, realizo una prueba de Welch para comparar las medias.
+Al comparar los "FR" para cada ATB, la prueba de Welch arroja p-values menores a 0.05. Resultado que se repite y magnifica al comparar los "FR" para cada bacteria:
 
-Media 20MP6= media Sm o total - media Nm o plásmido
+Media 20MP6 = media Sm o total - media Nm o plásmido
 
-Desviación 20MP6= desviación Sm o total + desviación Nm o plásmido
+Desviación 20MP6 = desviación Sm o total + desviación Nm o plásmido
 
 Por lo que puedo rechazar la hipótesis nula y las poblaciones tendrían la medias distintas.
 
