@@ -147,3 +147,23 @@ En las cuatro réplicas biológicas encuentro que no existe correlación entre l
 Si bien ya lo sabía por la correlación de Pearson, en los gráficos también se observa que no existe correlación.
 
 
+### Análisis de dependencia de variables categóricas
+
+En primer lugar transformo la variable numérica continua "FR" en una variable categórica "Categórico".
+Para ello, los valores mayores al promedio del grupo tomarán el valor "Alto", mientras que los menores el valor "Bajo".
+
+Realizo gráficos parar ver la distribución de las variables "Categórico" y "ATB":
+![Distribución de la variable categórica](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/80fbdab2-304c-4fa9-99fc-38a538aa7020)
+![Distribución de la variable ATB](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/0bafedb3-1713-41f7-9ae5-e51b06560ec6)
+
+Luego obtengo la tabla de contingencia para las variables "Categórico" y "ATB". Los valores "True" corresponden a "Alto" y "Sm400", los valores "False" a "Bajo" y "Nm100".
+
+Categorico  ATB  
+False       False    76
+            True     97
+True        False    75
+            True     83
+
+Finalmente realizo un test chi cuadrado para comparar los datos cualitativos y obtengo que el pvalue es de 0.3.
+Esto significa que rechazo la hipótesis nula y que las variables son dependientes.
+
