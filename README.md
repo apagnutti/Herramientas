@@ -118,5 +118,22 @@ Biológicamente esto indica que la presencia del plásmido tiene un impacto en e
 ![image](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/90193e70-2d5e-4693-84cd-f544e2b77bf0)
 
 
+### Interpretación del coeficiente de correlación y evaluación del ajuste de una recta de regresión
+
+Utilizo el coeficiente de correlación de Pearson porque mis variables son continuas con distribución normal.
+
+En las cuatro réplicas biológicas encuentro que no existe correlación entre la cantidad final de las bacterias de las cepas. Esto lo observo como un coeficiente cercano a 0 y un pvalue alto.
+
+![image](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/41596f70-a612-4361-986f-db115697480f)
+
+![regr_r1](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/d7c88600-8945-4df3-bf28-ff570e2288b9)
+
+![regr_r2](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/21e55bd2-4762-42eb-96dc-0636fe7cadba)
+
+![regr_r3](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/c76ad1ce-72e1-40f0-93cb-2b0cfb24994c)
+
+![regr_r4](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/6e6a3c07-be67-4d91-b20d-804c8009748a)
+
+Si bien ya lo sabía por la correlación de Pearson, en los gráficos también se observa que no existe correlación.
 
 
