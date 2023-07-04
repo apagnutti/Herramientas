@@ -158,11 +158,13 @@ Realizo gráficos parar ver la distribución de las variables "Categórico" y "A
 
 Luego obtengo la tabla de contingencia para las variables "Categórico" y "ATB". Los valores "True" corresponden a "Alto" y "Sm400", los valores "False" a "Bajo" y "Nm100".
 
+```python
 Categorico  ATB  
 False       False    76
             True     97
 True        False    75
             True     83
+```
 
 Finalmente realizo un test chi cuadrado para comparar los datos cualitativos y obtengo que el pvalue es de 0.3.
 Esto significa que rechazo la hipótesis nula y que las variables son dependientes.
