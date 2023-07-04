@@ -41,17 +41,26 @@ Se trata de una variable de tipo cotinua.
 ### Análisis gráfico las distribuciones de frecuencias de la variable
 
 El siguiente gráfico muestra la frecuencia de los valores de concentración FR para los dos ATB y en los momentos inicial y final.
-![FR_todos](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/e97c7885-598f-4a6b-8570-aefccfb4f6e4)
+
+![Histograma_FR_según_ATB_Momento](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/d84628d1-7a21-40ca-84e3-45a4bde8d00b)
+
 
 El siguiente histograma muestra la frecuencia de los valores FR para los dos ATB únicamente en el momento inicial:
-![FR_inicial](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/2ed33e21-b448-4d34-ad6f-fd1c55104b9b)
+
+![Histograma_FR_según_Bacteria_Momento_ATB_Replica](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/cf20171f-b86e-425b-8d7e-a9798201a457)
+
 
 Cada uno de los gráficos a continuación muestran las FR para ambos ATB, en el momento final, para cada una de las réplicas biológicas.
 
-![fr_1](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/7f792159-3dc3-4577-a8b0-f6a262173a4f)
-![fr_2](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/a90fda7a-eac8-45d0-9e1f-5a0cb3708a65)
-![FR_3](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/c74cadc0-75f0-44d5-8c94-c44b5ccc26e3)
-![fr_4](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/6567e3bf-862c-4015-b5a2-3f2c9df981be)
+![Histograma_FR_según_Bacteria_Momento_ATB_Replica1](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/34861c81-046e-4579-b7cc-9367f383a607)
+
+![Histograma_FR_según_Bacteria_Momento_ATB_Replica2](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/581683fa-354f-4b24-9eed-9e2a5621e1cd)
+
+![Histograma_FR_según_Bacteria_Momento_ATB_Replica3](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/ba677f19-8447-48de-b08b-1279743c28ce)
+
+![Histograma_FR_según_Bacteria_Momento_ATB_Replica4](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/8c53b34f-66d4-4894-9ea8-c54fdbe4c423)
+
+
 
 
 ### Medidas características de cada distribución (centralización y dispersión)
@@ -126,13 +135,14 @@ En las cuatro réplicas biológicas encuentro que no existe correlación entre l
 
 ![image](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/41596f70-a612-4361-986f-db115697480f)
 
-![regr_r1](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/d7c88600-8945-4df3-bf28-ff570e2288b9)
+![Regresion_lineal_Replica_1](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/d36f4fd4-6de5-4d5e-9e78-665300fbca53)
 
-![regr_r2](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/21e55bd2-4762-42eb-96dc-0636fe7cadba)
+![Regresion_lineal_Replica_2](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/591835c9-ccca-4085-b66c-b5e987034bd5)
 
-![regr_r3](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/c76ad1ce-72e1-40f0-93cb-2b0cfb24994c)
+![Regresion_lineal_Replica_3](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/f830acd0-2f84-438e-a713-4de4d3b5a969)
 
-![regr_r4](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/6e6a3c07-be67-4d91-b20d-804c8009748a)
+![Regresion_lineal_Replica_4](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/c247e950-3566-4a8f-9dc2-4635aa8b9c76)
+
 
 Si bien ya lo sabía por la correlación de Pearson, en los gráficos también se observa que no existe correlación.
 
