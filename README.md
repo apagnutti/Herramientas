@@ -115,6 +115,7 @@ Por lo que puedo rechazar la hipótesis nula y las poblaciones tendrían la medi
 
 Biológicamente esto indica que la presencia del plásmido tiene un impacto en el crecimiento de las bacterias en vida libre.
 
+![image](https://github.com/apagnutti/Herramientas-de-estadistica/assets/130510520/90193e70-2d5e-4693-84cd-f544e2b77bf0)
 
 
 
